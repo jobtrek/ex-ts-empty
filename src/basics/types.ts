@@ -38,7 +38,9 @@ export function addTheRequiredTypes(user, age) {
  * The user must give and array as parameter, but the type in the array is not important
  * You can deduce the return type of the function
  */
-export function countElementsInAnArrayOfUnknown(array) /** Return type ? */ {
+export function countElementsInAnArrayOfUnknown(
+  array: unknown[],
+) /** Return type ? */ {
   // Write your code here
 }
 
