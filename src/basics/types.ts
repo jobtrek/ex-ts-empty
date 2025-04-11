@@ -24,11 +24,12 @@ export function addingStringsWithTypes(
 
 /**
  * In the next function, add the required types :
- * - The user should be a string
- * - The age should be a number
- * - What is the correct return type ?
+ * - The user param should be a string
+ * - The age param should be a number
+ * - The correct return type
  */
-export function addTheRequiredTypes(user, age) {
+export function addTheRequiredTypes(
+) /** Return type ? */ {
   // The purpose of this function is not important, you just have to complete the types
   return user.length * age;
 }
@@ -51,6 +52,6 @@ export function countElementsInAnArrayOfUnknown(
  *
  * Complete the types and write the logic
  */
-export function arrayOfStringsToArrayOfStringLength(array) {
+export function arrayOfStringsToArrayOfStringLength(array: string[]) {
   // Write your code here
 }

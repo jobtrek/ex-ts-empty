@@ -1,5 +1,24 @@
 # Changelog
 
+## [2.2.1](https://github.com/jobtrek/ex-ts/compare/v2.2.0...v2.2.1) (2025-04-11)
+
+
+### Documentation
+
+* spelling ([#8](https://github.com/jobtrek/ex-ts/issues/8)) ([cb50a6e](https://github.com/jobtrek/ex-ts/commit/cb50a6efaa58675b9c9726feb20a0984d627f234))
+
+## [2.2.0](https://github.com/jobtrek/ex-ts/compare/v2.1.1...v2.2.0) (2025-04-11)
+
+
+### Features
+
+* setup exerices with sw-wipe comments ([#6](https://github.com/jobtrek/ex-ts/issues/6)) ([741575d](https://github.com/jobtrek/ex-ts/commit/741575d04824c500041836af1829d679c5adb7ff))
+
+
+### Build System
+
+* configure sw-wipe workflow ([741575d](https://github.com/jobtrek/ex-ts/commit/741575d04824c500041836af1829d679c5adb7ff))
+
 ## [2.1.1](https://github.com/jobtrek/ex-ts/compare/v2.1.0...v2.1.1) (2024-12-06)
 
 
