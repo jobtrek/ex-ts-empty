@@ -1,6 +1,6 @@
 # TypeScript exercises
 
-**v2.1.1 :** [Read changelog](./CHANGELOG.md) <!-- x-release-please-version -->
+**v2.2.1 :** [Read changelog](./CHANGELOG.md) <!-- x-release-please-version -->
 
 This repo contains some basic exercises to discover TypeScript.
 This allows you to understand the differences between JavaScript and TypeScript,
@@ -12,7 +12,7 @@ This repository use the [Deno](https://deno.com/) runtime, don't forget to insta
 system, [instructions here](https://docs.deno.com/runtime/getting_started/installation/).
 We recommend you to
 install [corresponding deno extension](https://docs.deno.com/runtime/getting_started/setup_your_environment/) in your
-favourite editor.
+favorite editor.
 
 Then, you can set up this repo on your computer :
 
