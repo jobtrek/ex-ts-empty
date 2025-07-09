@@ -1,6 +1,6 @@
 # TypeScript exercises
 
-**v2.2.1 :** [Read changelog](./CHANGELOG.md) <!-- x-release-please-version -->
+**v2.2.2 :** [Read changelog](./CHANGELOG.md) <!-- x-release-please-version -->
 
 This repo contains some basic exercises to discover TypeScript.
 This allows you to understand the differences between JavaScript and TypeScript,
