@@ -1,6 +1,6 @@
 # TypeScript exercises
 
-**v2.2.2 :** [Read changelog](./CHANGELOG.md) <!-- x-release-please-version -->
+**v2.2.3 :** [Read changelog](./CHANGELOG.md) <!-- x-release-please-version -->
 
 This repo contains some basic exercises to discover TypeScript.
 This allows you to understand the differences between JavaScript and TypeScript,
@@ -8,7 +8,7 @@ and understand how you can use types to allow better coding experience.
 
 ## Setup and installation
 
-This repository use the [Deno](https://deno.com/) runtime, don't forget to install it first on your
+This repository uses the [Deno](https://deno.com/) runtime, don't forget to install it first on your
 system, [instructions here](https://docs.deno.com/runtime/getting_started/installation/).
 We recommend you to
 install [corresponding deno extension](https://docs.deno.com/runtime/getting_started/setup_your_environment/) in your
@@ -44,4 +44,15 @@ deno test src/basics/types_test.ts
 deno check src/
 # Or for specific file
 deno check src/basics/types_test.ts
+```
+
+### Linting and formatting
+
+If you have installed the Deno extension, your editor should automatically lint and format your code with deno rules.
+
+You can also run linting and formatting from the command line :
+
+```shell
+deno fmt
+deno lint
 ```

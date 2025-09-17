@@ -5,7 +5,7 @@ import {
   removeNumbersBelowThreshold,
 } from "./arrays.ts";
 import { assertEquals } from "@std/assert/equals";
-import { assertType, IsExact } from "@std/testing/types";
+import { assertType, type IsExact } from "@std/testing/types";
 
 describe("removeNumbersBelowThreshold", () => {
   it("should have correct types", () => {
