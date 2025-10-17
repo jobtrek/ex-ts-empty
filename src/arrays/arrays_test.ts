@@ -34,7 +34,7 @@ describe("filterStringByLength", () => {
       >
     >(true);
   });
-  it("should remove numbers below 2", () => {
+  it("should keep strings with length between 2 and 3", () => {
     assertEquals(filterStringByLength(["to", "toto", "t", "tit"], 2, 3), [
       "to",
       "tit",
@@ -51,11 +51,8 @@ describe("getOnlyTheLowercaseLettersOfTheString", () => {
       >
     >(true);
   });
-  it("should remove numbers below 2", () => {
+  it("should return only the lowercase letters", () => {
     assertEquals(getOnlyTheLowercaseLettersOfTheString("Bonjour"), "onjour");
-  });
-
-  it("should remove numbers below 10", () => {
     assertEquals(getOnlyTheLowercaseLettersOfTheString("HeLlO"), "el");
   });
 });
