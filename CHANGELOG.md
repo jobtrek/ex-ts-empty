@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.4](https://github.com/jobtrek/ex-ts/compare/v2.2.3...v2.2.4) (2025-10-17)
+
+
+### Tests
+
+* fixed array tests description ([#16](https://github.com/jobtrek/ex-ts/issues/16)) ([07efc7d](https://github.com/jobtrek/ex-ts/commit/07efc7db0fe0eb543c49019f2336f875ca68be49))
+
 ## [2.2.3](https://github.com/jobtrek/ex-ts/compare/v2.2.2...v2.2.3) (2025-09-16)
 
 
