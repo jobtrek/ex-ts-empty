@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.5](https://github.com/jobtrek/ex-ts/compare/v2.2.4...v2.2.5) (2025-11-24)
+
+
+### Miscellaneous Chores
+
+* **deps:** bump actions/checkout from 5 to 6 ([#18](https://github.com/jobtrek/ex-ts/issues/18)) ([49522c0](https://github.com/jobtrek/ex-ts/commit/49522c06c84eb01a076e609944ed127fe2b6274a))
+
 ## [2.2.4](https://github.com/jobtrek/ex-ts/compare/v2.2.3...v2.2.4) (2025-10-17)
 
 
