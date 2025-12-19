@@ -1,5 +1,15 @@
 # Changelog
 
+## [2.2.6](https://github.com/jobtrek/ex-ts/compare/v2.2.5...v2.2.6) (2025-12-18)
+
+
+### Miscellaneous Chores
+
+* **deps:** bump actions/cache from 4 to 5 ([#22](https://github.com/jobtrek/ex-ts/issues/22)) ([63eaff7](https://github.com/jobtrek/ex-ts/commit/63eaff75e7bb45ca9752486cba8588476a44f4c3))
+* **deps:** bump jobtrek/sw-action from 1.1.8 to 1.1.9 ([#20](https://github.com/jobtrek/ex-ts/issues/20)) ([65c6052](https://github.com/jobtrek/ex-ts/commit/65c6052e76f68ec0f3ff26f5635426ceb9da2176))
+* **deps:** bump peter-evans/create-pull-request from 7 to 8 ([#23](https://github.com/jobtrek/ex-ts/issues/23)) ([93e7f86](https://github.com/jobtrek/ex-ts/commit/93e7f86334fc0c4f663039c7b6c63a4f546c6498))
+* pin actions to sha ([#24](https://github.com/jobtrek/ex-ts/issues/24)) ([6fdafa5](https://github.com/jobtrek/ex-ts/commit/6fdafa566724bffcb39ca2e363d0daaaa4ac6183))
+
 ## [2.2.5](https://github.com/jobtrek/ex-ts/compare/v2.2.4...v2.2.5) (2025-11-24)
 
 
