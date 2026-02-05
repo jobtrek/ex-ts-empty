@@ -1,5 +1,21 @@
 # Changelog
 
+## [2.2.8](https://github.com/jobtrek/ex-ts/compare/v2.2.7...v2.2.8) (2026-02-03)
+
+
+### Miscellaneous Chores
+
+* **deps:** bump actions/cache from 5.0.2 to 5.0.3 ([#29](https://github.com/jobtrek/ex-ts/issues/29)) ([cd5bd0f](https://github.com/jobtrek/ex-ts/commit/cd5bd0f29f6f3f53bb027a8147112e5f14b7f653))
+
+## [2.2.7](https://github.com/jobtrek/ex-ts/compare/v2.2.6...v2.2.7) (2026-01-30)
+
+
+### Miscellaneous Chores
+
+* **deps:** bump actions/cache from 5.0.1 to 5.0.2 ([#25](https://github.com/jobtrek/ex-ts/issues/25)) ([3392e7e](https://github.com/jobtrek/ex-ts/commit/3392e7ef5bb3ae802c5107938260afef33305be3))
+* **deps:** bump actions/checkout from 6.0.1 to 6.0.2 ([#28](https://github.com/jobtrek/ex-ts/issues/28)) ([6f3947f](https://github.com/jobtrek/ex-ts/commit/6f3947fc17837ea9f08e1c92b3ad39004207927f))
+* **deps:** bump peter-evans/create-pull-request from 8.0.0 to 8.1.0 ([#27](https://github.com/jobtrek/ex-ts/issues/27)) ([4dc5911](https://github.com/jobtrek/ex-ts/commit/4dc59113000f41b160633c2340fe0613f5c426b3))
+
 ## [2.2.6](https://github.com/jobtrek/ex-ts/compare/v2.2.5...v2.2.6) (2025-12-18)
 
 
