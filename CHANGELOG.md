@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.2.11](https://github.com/jobtrek/ex-ts/compare/v2.2.10...v2.2.11) (2026-03-26)
+
+
+### Miscellaneous Chores
+
+* **deps:** bump actions/cache from 5.0.3 to 5.0.4 ([#37](https://github.com/jobtrek/ex-ts/issues/37)) ([34164a8](https://github.com/jobtrek/ex-ts/commit/34164a82ef74813a27d82792a3cad17e32a4f28e))
+* **deps:** bump denoland/setup-deno from 2.0.3 to 2.0.4 ([#36](https://github.com/jobtrek/ex-ts/issues/36)) ([39bb755](https://github.com/jobtrek/ex-ts/commit/39bb755ded25e7ab43ef2edc600e7a962d6f2397))
+* **deps:** bump jobtrek/sw-action from 1.3.0 to 1.4.0 ([#35](https://github.com/jobtrek/ex-ts/issues/35)) ([8aacdcd](https://github.com/jobtrek/ex-ts/commit/8aacdcd40814301078f19f8117277a3a6f3f73bb))
+
 ## [2.2.10](https://github.com/jobtrek/ex-ts/compare/v2.2.9...v2.2.10) (2026-03-05)
 
 
