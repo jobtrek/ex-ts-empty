@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.2.12](https://github.com/jobtrek/ex-ts/compare/v2.2.11...v2.2.12) (2026-04-13)
+
+
+### Miscellaneous Chores
+
+* **deps:** bump jobtrek/sw-action from 1.4.0 to 1.5.0 ([#39](https://github.com/jobtrek/ex-ts/issues/39)) ([71fdee5](https://github.com/jobtrek/ex-ts/commit/71fdee5b810e05dace811f437479629499db381b))
+* **deps:** bump peter-evans/create-pull-request from 8.1.0 to 8.1.1 ([#40](https://github.com/jobtrek/ex-ts/issues/40)) ([0eeffae](https://github.com/jobtrek/ex-ts/commit/0eeffae96a88518c5169197317dc7927065cd819))
+
 ## [2.2.11](https://github.com/jobtrek/ex-ts/compare/v2.2.10...v2.2.11) (2026-03-26)
 
 
