@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.2.13](https://github.com/jobtrek/ex-ts/compare/v2.2.12...v2.2.13) (2026-04-22)
+
+
+### Miscellaneous Chores
+
+* **deps:** bump actions/cache from 5.0.4 to 5.0.5 ([#42](https://github.com/jobtrek/ex-ts/issues/42)) ([c13bcac](https://github.com/jobtrek/ex-ts/commit/c13bcac454d6b5b495706e0b8a8067f19982c78a))
+* **deps:** bump googleapis/release-please-action from 4.4.0 to 4.4.1 ([#43](https://github.com/jobtrek/ex-ts/issues/43)) ([769c0f3](https://github.com/jobtrek/ex-ts/commit/769c0f3b5adaac57542a3ba0866c2bba3dd735b6))
+
 ## [2.2.12](https://github.com/jobtrek/ex-ts/compare/v2.2.11...v2.2.12) (2026-04-13)
 
 
