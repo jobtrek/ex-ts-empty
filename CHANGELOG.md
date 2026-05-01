@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.2.14](https://github.com/jobtrek/ex-ts/compare/v2.2.13...v2.2.14) (2026-05-01)
+
+
+### Miscellaneous Chores
+
+* dependabot groups ([88d545e](https://github.com/jobtrek/ex-ts/commit/88d545ecd47754c4ae213d9a9c7f73e52b40a965))
+* **deps:** bump googleapis/release-please-action from 4.4.1 to 5.0.0 ([#45](https://github.com/jobtrek/ex-ts/issues/45)) ([0a0ced9](https://github.com/jobtrek/ex-ts/commit/0a0ced951965c304c63892faa6ad3a07a9b3f1a6))
+* release please include author ([c5ea66d](https://github.com/jobtrek/ex-ts/commit/c5ea66d601126b1b60fb37f71ce819e8f402a03e))
+
 ## [2.2.13](https://github.com/jobtrek/ex-ts/compare/v2.2.12...v2.2.13) (2026-04-22)
 
 
