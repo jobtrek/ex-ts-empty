@@ -1,5 +1,21 @@
 # Changelog
 
+## [2.2.17](https://github.com/jobtrek/ex-ts/compare/v2.2.16...v2.2.17) (2026-08-14)
+
+
+### Miscellaneous Chores
+
+* **deps:** bump actions/cache from 5.0.5 to 6.1.0 ([#52](https://github.com/jobtrek/ex-ts/issues/52)) ([bfc90b1](https://github.com/jobtrek/ex-ts/commit/bfc90b1908a87d3e853af25e17e2db445d5ec9e7))
+* **deps:** bump actions/checkout from 7.0.0 to 7.0.1 ([#54](https://github.com/jobtrek/ex-ts/issues/54)) ([73a2d3f](https://github.com/jobtrek/ex-ts/commit/73a2d3f1bd0a5337a1cae2f95bddba220c1fd120))
+* **deps:** bump denoland/setup-deno from 2.0.4 to 2.0.5 ([#53](https://github.com/jobtrek/ex-ts/issues/53)) ([fa70799](https://github.com/jobtrek/ex-ts/commit/fa70799c8b31b6f45bf722271621ee94f06f0d72))
+
+## [2.2.16](https://github.com/jobtrek/ex-ts/compare/v2.2.15...v2.2.16) (2026-06-23)
+
+
+### Miscellaneous Chores
+
+* **deps:** bump actions/checkout from 6.0.3 to 7.0.0 ([#50](https://github.com/jobtrek/ex-ts/issues/50)) ([1aee33a](https://github.com/jobtrek/ex-ts/commit/1aee33acee13d2997afec86cf92197f7637346e2))
+
 ## [2.2.15](https://github.com/jobtrek/ex-ts/compare/v2.2.14...v2.2.15) (2026-06-08)
 
 
