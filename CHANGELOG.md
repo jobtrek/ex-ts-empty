@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.18](https://github.com/jobtrek/ex-ts/compare/v2.2.17...v2.2.18) (2026-10-12)
+
+
+### Miscellaneous Chores
+
+* **deps:** bump jobtrek/sw-action from 1.6.0 to 1.7.0 ([#56](https://github.com/jobtrek/ex-ts/issues/56)) ([21f6269](https://github.com/jobtrek/ex-ts/commit/21f6269bc4b1ab5f6d4790a3748f508d741bb61f))
+
 ## [2.2.17](https://github.com/jobtrek/ex-ts/compare/v2.2.16...v2.2.17) (2026-08-14)
 
 
